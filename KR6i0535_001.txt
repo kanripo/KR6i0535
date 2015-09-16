@@ -1,12 +1,12 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:04.054864
+#+DATE: 2015-08-30 20:22:04.633552
 #+TITLE: 大乘離文字普光明藏經
 #+PROPERTY: CBETA_ID T17n0829
 #+PROPERTY: ID KR6i0535
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 829
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0535_T_000-0872b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0535_T_001-0872b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -14,11 +14,10 @@
 ¶
 ¶
 ¶
-No.829[Nos.828,830]¶
-
- 《大乘離文字普光明藏經》¶
+No. 829 [Nos. 828, 830]¶
+《大乘離文字普光明藏經》¶
 ¶
-大唐天竺三藏地婆訶羅譯¶
+唐中天竺三藏法師地婆訶羅奉勅第三譯¶
 
 如是我聞：
 
@@ -60,7 +59,7 @@ No.829[Nos.828,830]¶
 樓羅王，各與無量諸眷屬俱，來入此會。十¶
 方世界如恒河沙所有菩薩，咸於本土啟請¶
 如來，與諸四眾同時到此，各持種種出過世¶
-間殊好供養，奉上於佛、諸菩薩已，即於會¶
+間殊好供事，奉上於佛、諸菩薩已，即於會¶
 中坐蓮華座。¶
 
 爾時勝思惟菩薩摩訶薩從座而起，偏袒右¶

@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:04.054864
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:53
 #+TITLE: 大乘離文字普光明藏經
 #+PROPERTY: CBETA_ID T17n0829
 #+PROPERTY: ID KR6i0535
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 829
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0535_T_000-0872b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0535_T_001-0872b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -14,9 +14,8 @@
 ¶
 ¶
 ¶
-No.829[Nos.828,830]¶
-
- 《大乘離文字普光明藏經》¶
+No. 829 [Nos. 828, 830]¶
+《大乘離文字普光明藏經》¶
 ¶
 大唐天竺三藏地婆訶羅譯¶
 
